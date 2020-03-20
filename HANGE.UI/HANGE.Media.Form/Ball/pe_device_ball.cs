@@ -18,7 +18,7 @@ namespace HANGE.Media.Form
         //public Entity.Pe_device Get_Device_denum(string device_num)
         //{
         //    return DBContext.DB.From<Entity.Pe_device>().Where(s => s.Hostbody == device_num&&!s.Hostbody.Contains("_")&&s.State=="0").First();
-        //}
+        //} 
 
         //public List<Entity.Pe_device> Get_Devices(string contains)
         //{
