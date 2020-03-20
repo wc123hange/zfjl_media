@@ -9,7 +9,7 @@ using Entity = HANGE.Media.Entity;
 namespace HANGE.Media.Form
 {
     public class pe_device_ball 
-    {
+    {   
         //public List<Entity.Pe_device> Get_Devices()
         //{
         //    return DBContext.DB.From<Entity.Pe_device>().Where(s => s.State == "0" && !s.Hostbody.Contains("_")).ToList();
