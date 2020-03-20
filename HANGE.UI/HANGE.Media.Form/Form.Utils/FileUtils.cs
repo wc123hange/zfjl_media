@@ -24,7 +24,7 @@ class FileUtils
         file.CopyTo(full_file_path, true); //复制 ，剪切的话file.MoveTo();file.CopyTo是拷贝到另外一个文件夹
         file.Delete();
     }
-
+     
     private static string file_extend = ".WAV.JPG.MP4";
     public static bool is_need_file(string extend_str)
     {
